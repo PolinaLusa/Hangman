@@ -1,0 +1,15 @@
+Welcome to Hangman!
+
+Rules:
+
+The objective of the game is to guess the hidden word or phrase.
+You have a limited number of incorrect guesses allowed, typically 8.
+Guess letters one at a time. If the letter is in the word, it will be revealed.
+If the letter is not in the word, part of a hangman figure is drawn.
+Continue guessing until you correctly guess the entire word or phrase or make too many incorrect guesses.
+Win by guessing the word before making too many incorrect guesses. Lose if you exceed the maximum allowed incorrect guesses.
+
+Have fun playing Hangman!
+
+
+Hello, Polina
